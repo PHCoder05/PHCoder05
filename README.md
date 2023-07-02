@@ -11,6 +11,11 @@
   <samp>🤩 Welcome to my GitHub! I'm an enthusiastic Full Stack Web Developer with a passion for Python, JavaScript, React, and HTML/CSS. I graduated from Government Polytechnic Amravati with a diploma in Information Technology. With a strong foundation in web development, I excel in creating interactive and responsive websites. I'm also experienced in Python and Java, and I recently developed a Face Recognition-based Attendance System using Machine Learning for my final year project.</samp>
 </p>
 
+<!-- Resume -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Mkdlfjz90lsUAFWG_zDBe-3hioSKo88L/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%23FF5722?style=flat&logo=google-drive&logoColor=white" alt="Resume"></a>
+</p>
+
 <!-- Portfolio and Social Links -->
 <p align="center">
   <a href="https://phcoder05.github.io/My-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5?style=flat&logo=github&logoColor=white" alt="Portfolio"></a>
