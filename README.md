@@ -13,7 +13,7 @@
 
 <!-- Resume -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Mkdlfjz90lsUAFWG_zDBe-3hioSKo88L/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%23FF5722?style=flat&logo=google-drive&logoColor=white" alt="Resume"></a>
+  <a href="http://tinyurl.com/Pankajsresume" target="_blank"><img src="https://img.shields.io/badge/Resume-%23FF5722?style=flat&logo=google-drive&logoColor=white" alt="Resume"></a>
 </p>
 
 <!-- Portfolio and Social Links -->
