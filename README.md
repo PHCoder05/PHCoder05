@@ -2,7 +2,6 @@
 <h2 align="center">👋 Hello, World! I'm Pankaj Hadole 🚀</h2>
 <p align="center">
   <samp>🎓Pursuing BTECH in Information Technology<br>
-
   💻 Full Stack Web Developer | Python | JavaScript | React | ML<br>
   🌟 Passionate Learner | Tech Enthusiast | Mentor</samp>
 </p>
