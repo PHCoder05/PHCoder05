@@ -83,12 +83,13 @@
     <img src="https://tenor.com/bb576.gif" alt="Medium Lion Sticker" style="float: right; margin-right: 20px;">
   </p>
 
-<!-- A+ Analytics -->
-<h3 align="center">⚡ A+ Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PHCoder05&show_icons=true&count_private=true&hide_border=true&theme=dark&custom_title=A%2B%20Analytics"
+<!-- GitHub Analytics -->
+<h3 align="center" style="color: #fff;">⚡ GitHub Analytics</h3>
+<p align="center" style="background-color: #1a1a1a; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PHCoder05&show_icons=true&count_private=true&hide_border=true&theme=dark"
     alt="GitHub Stats" />
 </p>
+
 
 
   <!-- Footer -->
