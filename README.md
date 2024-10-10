@@ -31,7 +31,7 @@
 
   <!-- Resume -->
   <p align="center">
-    <a href="http://tinyurl.com/Pankajsresume" target="_blank">
+    <a href="[http://tinyurl.com/Pankajsresume](https://www.linkedin.com/in/pankaj-hadole-722476232/overlay/1728332815527/single-media-viewer/?type=DOCUMENT&profileId=ACoAADoW84oBHezE74PBCuOV7f2Lr_p_NQz5-DM)" target="_blank">
       <img src="https://img.shields.io/badge/Resume-%23FF5722?style=for-the-badge&logo=google-drive&logoColor=white"
         alt="Resume">
     </a>
