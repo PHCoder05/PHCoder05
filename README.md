@@ -1,100 +1,418 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Pankaj Hadole | Full Stack Developer
+</h1>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--   <title>Pankaj Hadole's GitHub</title> -->
-</head>
-
-<body>
-
-  <!-- Header -->
-  <h2 align="center">👋 Hello, World! I'm Pankaj Hadole 🚀</h2>
-  <p align="center">
-    <samp>🎓 Pursuing BTECH in Information Technology at JSPM's RSCOE Pune<br>
-        💻 Full Stack Web Developer | Python | JavaScript | React | ML<br>
-        🌟 Passionate Learner | Tech Enthusiast | Mentor</samp>
-  </p>
-
-  <!-- Intro -->
 <p align="center">
-  <samp>🤩🌟 Welcome to my GitHub! 🚀 I’m Pankaj Hadole, your go-to Full Stack Web Developer with a zest for Python, JavaScript, React, and HTML/CSS. I’ve got a diploma from Government Polytechnic Amravati, and I’m now leveling up my skills with a Bachelor of Technology at JSPM's Rajarshi Shahu College of Engineering.<br><br>
-
-🎨 From crafting interactive websites to jazzing up web applications, I’m all about creating stellar digital experiences. I’ve even tackled a Face Recognition-based Attendance System using Machine Learning for my final year project – talk about combining tech with a touch of flair!<br><br>
-
-💻 Currently, I’m working with Markyway, where my team and I are breaking boundaries in full-stack web development. We’re blending HTML5 magic with web maintenance wizardry to boost performance and create top-notch solutions. My journey also involves collaborating with the Nexus Web Development Club, where I’ve sharpened my skills and contributed to our collective triumphs.<br><br>
-
-🎓 With certifications from Google and Microsoft under my belt, I’m always eager to learn and excel in the ever-evolving digital landscape. Let’s connect and explore exciting opportunities together!<br><br>
-
+  <a href="https://phcoder05.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pankaj-hadole-722476232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/pankaj_hadole"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:pankajhadole05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/PHCoder05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
 
-  <!-- Resume -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/pankaj-hadole-722476232/overlay/1728332815527/single-media-viewer/?type=DOCUMENT&profileId=ACoAADoW84oBHezE74PBCuOV7f2Lr_p_NQz5-DM" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-%23FF5722?style=for-the-badge&logo=google-drive&logoColor=white"
-        alt="Resume">
-    </a>
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Python+%7C+JavaScript+%7C+React+Expert;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+learning+new+technologies" alt="Typing SVG" />
+</div>
 
-  <!-- Portfolio and Social Links -->
-  <p align="center">
-    <a href="https://phcoder05.github.io/My-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=github&logoColor=white"
-        alt="Portfolio">
-    </a>
-    <a href="https://www.linkedin.com/in/pankaj-hadole-722476232/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/pankaj_hadole" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter">
-    </a>
+## 👨‍💻 Professional Summary
 
- <!-- Email Me Button -->
-<a href="mailto:pankajhadole05@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email Me">
-</a>
+Passionate and innovative Full Stack Developer with a strong foundation in Computer Science and a track record of delivering high-quality, scalable web applications. Experienced in modern web technologies and committed to writing clean, efficient code. Eager to bring my technical skills, creativity, and enthusiasm to a dynamic development team.
 
-<!-- LeetCode Button -->
-<a href="https://leetcode.com/PHCoder05/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"
-    alt="LeetCode">
-</a>
+## 🛠️ Technical Skills
 
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+  </tr>
+</table>
 
-  <!-- Tech Stack -->
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </p>
+## 📊 GitHub Analytics
 
-  <!-- Medium Live Sticker (Lion) -->
-  <p align="center">
-    <img src="https://tenor.com/bb576.gif" alt="Medium Lion Sticker" style="float: right; margin-right: 20px;">
-  </p>
-
-<!-- GitHub Analytics -->
-<h3 align="center" style="color: #fff;">⚡ GitHub Analytics</h3>
-<p align="center" style="background-color: #1a1a1a; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PHCoder05&show_icons=true&count_private=true&hide_border=true&theme=dark"
-    alt="GitHub Stats" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHCoder05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHCoder05&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phcoder05&theme=algolia&hide_border=false" alt="GitHub Streak Stats"/>
+</p>
 
+## 📈 Contribution Graph
 
-  <!-- Footer -->
-  <p align="center">🌟 Don't forget to star some of my repositories! 🌟</p>
+[![Pankaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PHCoder05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</body>
+## 🏆 GitHub Profile Trophy
 
-</html>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PHCoder05&theme=algolia&row=1&column=6&margin-w=15" alt="GitHub Profile Trophy"/>
+</p>
+
+## 🔥 Latest Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <div align="center">  
+        <a href='https://github.com/PHCoder05/project1' target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PHCoder05&repo=project1&theme=algolia" alt="Project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/PHCoder05/project1" target="_blank">
+            <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+          </a>  
+          <a href="https://project1-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
+          </a>
+        </p>
+        <p><strong>Technologies Used:</strong> React, Node.js, Express, MongoDB</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <div align="center">  
+        <a href='https://github.com/PHCoder05/project2' target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PHCoder05&repo=project2&theme=algolia" alt="Project 2" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/PHCoder05/project2" target="_blank">
+            <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+          </a>  
+          <a href="https://project2-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
+          </a>
+        </p>
+        <p><strong>Technologies Used:</strong> Python, Flask, SQLAlchemy, Docker</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📜 Certifications
+
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XXXXXXXXX)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
+- [AWS Certified Developer - Associate](https://www.credly.com/badges/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Optimizing React Performance: Advanced Techniques](https://yourdevblog.com/optimizing-react-performance)
+- [Building Scalable Microservices with Node.js](https://yourdevblog.com/scalable-microservices-nodejs)
+- [Machine Learning in Web Development: Practical Applications](https://yourdevblog.com/ml-in-web-dev)
+<!-- BLOG-POST-LIST:END -->
+
+## 🌟 Fun Facts
+
+- 🧩 I can solve a Rubik's cube in under 2 minutes!
+- 🌱 I'm currently learning Three.js
+- 🎯 2024 Goals: Contribute more to Open Source projects
+- 📚 I read at least one technical book every month
+
+<details>
+<summary>📈 More Stats</summary>
+<br>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHCoder05&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHCoder05&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PHCoder05&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHCoder05&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHCoder05&theme=algolia)
+
+</details>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Pankaj Hadole | Full Stack Developer
+</h1>
+
+<p align="center">
+  <a href="https://phcoder05.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pankaj-hadole-722476232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/pankaj_hadole"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:pankajhadole05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/PHCoder05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Python+%7C+JavaScript+%7C+React+Expert;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+learning+new+technologies" alt="Typing SVG" />
+</div>
+
+## 👨‍💻 Professional Summary
+
+Passionate and innovative Full Stack Developer with a strong foundation in Computer Science and a track record of delivering high-quality, scalable web applications. Experienced in modern web technologies and committed to writing clean, efficient code. Eager to bring my technical skills, creativity, and enthusiasm to a dynamic development team.
+
+## 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHCoder05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHCoder05&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phcoder05&theme=algolia&hide_border=false" alt="GitHub Streak Stats"/>
+</p>
+
+## 📈 Contribution Graph
+
+[![Pankaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PHCoder05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PHCoder05&theme=algolia&row=1&column=6&margin-w=15" alt="GitHub Profile Trophy"/>
+</p>
+
+## 🔥 Latest Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <div align="center">  
+        <a href='https://github.com/PHCoder05/project1' target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PHCoder05&repo=project1&theme=algolia" alt="Project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/PHCoder05/project1" target="_blank">
+            <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+          </a>  
+          <a href="https://project1-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
+          </a>
+        </p>
+        <p><strong>Technologies Used:</strong> React, Node.js, Express, MongoDB</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <div align="center">  
+        <a href='https://github.com/PHCoder05/project2' target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PHCoder05&repo=project2&theme=algolia" alt="Project 2" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/PHCoder05/project2" target="_blank">
+            <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+          </a>  
+          <a href="https://project2-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
+          </a>
+        </p>
+        <p><strong>Technologies Used:</strong> Python, Flask, SQLAlchemy, Docker</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📜 Certifications
+
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XXXXXXXXX)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
+- [AWS Certified Developer - Associate](https://www.credly.com/badges/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Optimizing React Performance: Advanced Techniques](https://yourdevblog.com/optimizing-react-performance)
+- [Building Scalable Microservices with Node.js](https://yourdevblog.com/scalable-microservices-nodejs)
+- [Machine Learning in Web Development: Practical Applications](https://yourdevblog.com/ml-in-web-dev)
+<!-- BLOG-POST-LIST:END -->
+
+## 🌟 Fun Facts
+
+- 🧩 I can solve a Rubik's cube in under 2 minutes!
+- 🌱 I'm currently learning [Cutting-edge Technology]
+- 🎯 2024 Goals: Contribute more to Open Source projects
+- 📚 I read at least one technical book every month
+
+<details>
+<summary>📈 More Stats</summary>
+<br>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHCoder05&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHCoder05&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PHCoder05&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHCoder05&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHCoder05&theme=algolia)
+
+</details>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PHCoder05&label=Profile%20views&color=0e75b6&style=flat" alt="PHCoder05" />
+</p>
+
+<p align="center">
+  <strong>🚀 Don't miss out on the opportunity to work with a developer who can transform your vision into reality. Let's connect and discuss how I can add value to your team!</strong>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pankaj-hadole-722476232/">
+    <img src="https://img.shields.io/badge/Schedule_an_Interview-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="Schedule an Interview" />
+  </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PHCoder05&label=Visionaries%20Inspired&color=0e75b6&style=flat" alt="PHCoder05" />
+</p>
+
+<h3 align="center">💖 Thank you for visiting my profile. Let's connect and build something amazing together! 💖</h3>
