@@ -126,13 +126,13 @@ Passionate and innovative Full Stack Developer with a strong foundation in Compu
     <td width="50%">
       <h3 align="center">Project 1</h3>
       <div align="center">  
-        <a href='https://github.com/PHCoder05/project1' target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PHCoder05&repo=project1&theme=algolia" alt="Project 1" height="100%" />
+        <a href='https://github.com/PHCoder05/SAAS-CRM' target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PHCoder05&repo=SAAS-CRM&theme=algolia" alt="Project 1" height="100%" />
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/PHCoder05/project1" target="_blank">
+          <a href="https://github.com/PHCoder05/SAAS-CRM" target="_blank">
             <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
           </a>  
           <a href="https://project1-demo.com" target="_blank">
@@ -145,16 +145,16 @@ Passionate and innovative Full Stack Developer with a strong foundation in Compu
     <td width="50%">
       <h3 align="center">Project 2</h3>
       <div align="center">  
-        <a href='https://github.com/PHCoder05/project2' target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PHCoder05&repo=project2&theme=algolia" alt="Project 2" height="100%" />
+        <a href='https://github.com/PHCoder05/Sport-Tech' target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PHCoder05&repo=Sport-Tech&theme=algolia" alt="Project 2" height="100%" />
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/PHCoder05/project2" target="_blank">
+          <a href="https://github.com/PHCoder05/Sport-Tech" target="_blank">
             <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
           </a>  
-          <a href="https://project2-demo.com" target="_blank">
+          <a href="https://www.capriolesportstech.com/" target="_blank">
             <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
           </a>
         </p>
