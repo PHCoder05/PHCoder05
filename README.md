@@ -163,28 +163,6 @@ Passionate and innovative Full Stack Developer with a strong foundation in Compu
     </td>
   </tr>
 </table>
-
-## 📜 Certifications
-
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XXXXXXXXX)
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
-- [AWS Certified Developer - Associate](https://www.credly.com/badges/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing React Performance: Advanced Techniques](https://yourdevblog.com/optimizing-react-performance)
-- [Building Scalable Microservices with Node.js](https://yourdevblog.com/scalable-microservices-nodejs)
-- [Machine Learning in Web Development: Practical Applications](https://yourdevblog.com/ml-in-web-dev)
-<!-- BLOG-POST-LIST:END -->
-
-## 🌟 Fun Facts
-
-- 🧩 I can solve a Rubik's cube in under 2 minutes!
-- 🌱 I'm currently learning [Cutting-edge Technology]
-- 🎯 2024 Goals: Contribute more to Open Source projects
-- 📚 I read at least one technical book every month
-
 <details>
 <summary>📈 More Stats</summary>
 <br>
